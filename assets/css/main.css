@@ -1757,12 +1757,14 @@ input, select, textarea {
 		.image.avatar48 {
 			width: 48px;
 			height: 48px;
-			background: #f00;
+			background: white;
+			border-radius: 5px;
 		}
 
 			.image.avatar48 img {
 				width: 48px;
 				height: 48px;
+				border-radius: 5px;
 			}
 
 		.image.fit {
@@ -2169,7 +2171,7 @@ input, select, textarea {
 				}
 
 					#nav ul li a.active span:before {
-						color: #e27689;
+						color: white;
 					}
 
 /* Footer */
