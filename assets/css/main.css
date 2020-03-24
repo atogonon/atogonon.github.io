@@ -1744,6 +1744,13 @@ input, select, textarea {
 
 /* Image */
 
+	#mainPic {
+		border-radius: 10px;
+		border-color: grey;
+		border-style: solid;
+		border-width: 2px;
+	}
+
 	.image {
 		display: inline-block;
 		border: 0;
