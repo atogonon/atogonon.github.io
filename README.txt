@@ -1,5 +1,7 @@
 Welcome to the repo for my website!  As you can see I'm using a template to get something off the ground quickly, but be on the lookout for an update in the future when I get the chance to build something out that is brand new and super cool.
 
+NYC Banner Image Photo by Jonathan Pease on Unsplash
+
 ==========================================================================
 
 Prologue by HTML5 UP

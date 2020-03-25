@@ -2064,7 +2064,7 @@ input, select, textarea {
 		position: fixed;
 		text-align: right;
 		top: 0;
-		width: 375px;
+		width: 300px;
 	}
 
 		#header .top {
@@ -2184,7 +2184,7 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		margin-left: 375px;
+		margin-left: 300px;
 		text-align: center;
 		background-color: #dce3e2;
 		padding: 3em 0 4em 0;
@@ -2214,7 +2214,11 @@ input, select, textarea {
 /* Main */
 
 	#main {
-		margin-left: 375px;
+		margin-left: 300px;
+	}
+
+	#mainHeading {
+		text-shadow: black 2px 2px;
 	}
 
 		#main > section {
@@ -2257,7 +2261,7 @@ input, select, textarea {
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("../../images/banner.jpg");
+				background-image: url("../../images/banner3.jpg");
 			}
 
 			#main > section.two {
