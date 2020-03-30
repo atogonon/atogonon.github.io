@@ -2221,6 +2221,10 @@ input, select, textarea {
 		text-shadow: black 2px 2px;
 	}
 
+	#headingText {
+		text-shadow: black 2px 2px;
+	}
+
 		#main > section {
 			margin: 0;
 			overflow: hidden;
